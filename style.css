@@ -1,0 +1,14 @@
+*{
+    background-color: crimson;
+}
+
+.link{
+    font-family: "Copperplate", "Papyrus", fantasy;
+    text-align: center;
+    font-weight: bold;
+    list-style: none;
+}
+
+.ingred{
+    background-color: white;
+}
